@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
+Sitemap: https://bokepindoupdate.pages.dev/sitemap.xml
