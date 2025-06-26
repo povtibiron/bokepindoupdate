@@ -1,2 +1,1 @@
-# bokepindoupdate
-bokepindoupdate
+# [bokepindoupdate](https://bokepindoupdate.pages.dev)
